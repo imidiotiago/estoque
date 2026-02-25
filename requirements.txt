@@ -1,1 +1,5 @@
+pandas
+requests
 streamlit
+openpyxl
+altair<5
